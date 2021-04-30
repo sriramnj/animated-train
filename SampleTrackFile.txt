@@ -1,0 +1,5 @@
+test file to understand the different status of a file 
+- Untracked
+- Staged
+- Tracked
+
